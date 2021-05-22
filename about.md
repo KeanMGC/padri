@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+PADRI was organized to support the research initiatives of Wenzhou-Kean University (WKU), Michael Graves College (MGC) faculty and students. It operates under the directive of making place ideal for humanity through research and technology. The Research Institute is currently working on local applied research projects in Zhejiang, China, as well as international research projects and competitions. The Michael Graves Collage wide Designing Public Spaces (DPS) research initiative is a main foci of our research agenda. For example the Wenruitang River Project (Sustainable development of vernacular historical districts in Wenzhou Area) is an ambitious and substantial part of DPS.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+The Wenruitang River Project is a great example of the opportunities for young design students to engaging the community, and practice design methodology, in controlled yet real world scenarios, providing rapid feedback. This gives students the opportunity to learn in a very exciting, yet productive way. This is made possible through a focus on reinvigorating historic infrastructure, partnering with municipalities and key decision makers to propose innovative methods and interventions based on research and evaluation of existing conditions.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+There are numerous other funded research projects.*
 
-
-[jekyll-organization]: https://github.com/jekyll
+<img src="https://raw.githubusercontent.com/steenblikrs/PADRI/main/assets/_%5B1%5D.jpg" alt="research image" style="width:400px;">
