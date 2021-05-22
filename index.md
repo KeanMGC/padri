@@ -1,7 +1,7 @@
 ---
 layout: page
 title: index
-permalink: /index/
+
 ---
 
 ![](assets/2021PADRIBackground-00a_.png)
