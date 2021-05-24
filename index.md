@@ -13,13 +13,13 @@ We had a student team who developed a logo design for the Institute and a facult
 
 
 
-<img src="https://raw.githubusercontent.com/steenblikrs/padri/main/assets/IMG_20210522_104153.jpg" alt="PADRI Exhibition" style="width:350px;">
+<img src="https://raw.githubusercontent.com/steenblikrs/padri/main/assets/IMG_20210522_104153.jpg" alt="PADRI Exhibition" style="width:500px;">
 
-<img src="https://raw.githubusercontent.com/steenblikrs/padri/main/assets/IMG_20210522_132429.jpg" alt="research image" style="width:350px;">
+<img src="https://raw.githubusercontent.com/steenblikrs/padri/main/assets/IMG_20210522_132429.jpg" alt="research image" style="width:500px;">
 
-<img src="https://raw.githubusercontent.com/steenblikrs/PADRI/main/assets/IMG_20210522_135913.jpg" alt="research image" style="width:350px;">
+<img src="https://raw.githubusercontent.com/steenblikrs/PADRI/main/assets/IMG_20210522_135913.jpg" alt="research image" style="width:500px;">
 
-<img src="https://raw.githubusercontent.com/steenblikrs/PADRI/main/assets/IMG_20210522_141619.jpg" alt="research image" style="width:350px;">
+<img src="https://raw.githubusercontent.com/steenblikrs/PADRI/main/assets/IMG_20210522_141619.jpg" alt="research image" style="width:500px;">
 
 
 
