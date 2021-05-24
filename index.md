@@ -7,23 +7,19 @@ layout: page
 ![](assets/2021PADRIBackground-00a_.png)
 
 
+We recently completed The Public Architecture and Design Research Institute’s (PADRI) inaugural conference and exhibition coinciding with, and part of the Thinking Creatively Conference! PADRI was organized to support the research initiatives of [Wenzhou-Kean University (WKU)](wku.edu.cn), [Michael Graves College (MGC)](http://design.wku.edu.cn/) faculty and students. This year's conference and exhibition featured projects from every department in the college, including Graphic Design, Interior Design, Industrial Design, and Architecture.
 
-
-# PLEASE VOTE for the best reseach project for the 2021 Conference and Exhibition:
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSergCIOCb4lWIYbU6hJbtrDANB9iY6nzsFVAX313fntSgysqw/viewform?embedded=true" width="640" height="1817" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
+We had a student team who developed a logo design for the Institute and a faculty member selected for best research project.
 
 
 
-# Logo Design Brief:
+<img src="https://raw.githubusercontent.com/steenblikrs/padri/main/assets/IMG_20210522_104153.jpg" alt="PADRI Exhibition" style="width:400px;">
 
-[LINK 01](https://wzku-my.sharepoint.com/:w:/g/personal/mattheww_wku_edu_cn/EcRQvXC7zrZNhfAum4c_tE4Ba3J47PZwkencQ0kqJD3z9A?e=4%3agrKH0L&at=9)
-[LINK 02](https://wzku-my.sharepoint.com/:b:/g/personal/mattheww_wku_edu_cn/EVbGhPnVY8dKsrSwmKEqim8B97adGBMxu6oMERi7Ah7Ung?e=0Qvkd3)
-[LINK 03](https://wzku-my.sharepoint.com/:b:/g/personal/mattheww_wku_edu_cn/EQ1h8wIvA5hChB8h3idx_ocBKwE5ZgQ4fg4dTnBgl1rEIg?e=fSPRvz)
+<img src="https://raw.githubusercontent.com/steenblikrs/padri/main/assets/IMG_20210522_132429.jpg" alt="research image" style="width:400px;">
 
+<img src="https://raw.githubusercontent.com/steenblikrs/PADRI/main/assets/IMG_20210522_135913.jpg" alt="research image" style="width:400px;">
 
-
+<img src="https://raw.githubusercontent.com/steenblikrs/PADRI/main/assets/IMG_20210522_141619.jpg" alt="research image" style="width:400px;">
 
 
 
