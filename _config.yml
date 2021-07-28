@@ -2,7 +2,8 @@ title: Public Architecture And Design Research Institute
 author:
   name: Micheal Graves College
   email: rsteenbl@kean.edu
-description: > PADRI was organized to support the research initiatives of Wenzhou-Kean University WKU, Michael Graves College MGC faculty and students.
+description: > # This is to skip down to show_excerpts
+PADRI was organized to support the research initiatives of Wenzhou-Kean University WKU, Michael Graves College MGC faculty and students.
 
 
 show_excerpts: false # set to true to show excerpts on the homepage
