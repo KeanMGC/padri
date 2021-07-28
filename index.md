@@ -21,7 +21,3 @@ We had a student team who developed a logo design for the Institute and a facult
 
 <img src="https://raw.githubusercontent.com/steenblikrs/PADRI/main/assets/IMG_20210522_141619.jpg" alt="research image" style="width:500px;">
 
-
-
-The theme is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
-
