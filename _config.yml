@@ -5,6 +5,8 @@ author:
 description: > # this means to ignore newlines until "show_excerpts:"
   PADRI was organized to support the research initiatives of Wenzhou-Kean University WKU, Michael Graves College MGC faculty and students.
 
+header_pages:
+  - about.md
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
