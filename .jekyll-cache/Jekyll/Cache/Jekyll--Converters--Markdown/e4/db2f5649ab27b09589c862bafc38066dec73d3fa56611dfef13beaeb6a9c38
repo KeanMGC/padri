@@ -1,16 +1,8 @@
-I",<p><img src="assets/2021PADRIBackground-00a_.png" alt="" /></p>
+I"�)<p><img src="assets/2021PADRIBackground-00a_.png" alt="" /></p>
 
 <p>We recently completed The Public Architecture and Design Research Institute’s (PADRI) inaugural conference and exhibition coinciding with, and part of the Thinking Creatively Conference! PADRI was organized to support the research initiatives of <a href="wku.edu.cn">Wenzhou-Kean University (WKU)</a>, <a href="http://design.wku.edu.cn/">Michael Graves College (MGC)</a> faculty and students. This year’s conference and exhibition featured projects from every department in the college, including Graphic Design, Interior Design, Industrial Design, and Architecture.</p>
 
 <p>We had a student team who developed a logo design for the Institute and a faculty member selected for best research project.</p>
-
-<p><img src="https://raw.githubusercontent.com/steenblikrs/padri/main/assets/IMG_20210522_104153.jpg" alt="PADRI Exhibition" style="width:500px;" /></p>
-
-<p><img src="https://raw.githubusercontent.com/steenblikrs/padri/main/assets/IMG_20210522_132429.jpg" alt="research image" style="width:500px;" /></p>
-
-<p><img src="https://raw.githubusercontent.com/steenblikrs/PADRI/main/assets/IMG_20210522_135913.jpg" alt="research image" style="width:500px;" /></p>
-
-<p><img src="https://raw.githubusercontent.com/steenblikrs/PADRI/main/assets/IMG_20210522_141619.jpg" alt="research image" style="width:500px;" /></p>
 
 <div class="carousel__holder">
     <div class="carousel">
@@ -63,13 +55,13 @@
         <div class="carousel__track">
           <ul>
             
-            <li class="carousel__slide" style="background-image: url('/IMG_20210522_104153.jpg');"></li>
+            <li class="carousel__slide" style="background-image: url('https://raw.githubusercontent.com/steenblikrs/padri/main/assets/IMG_20210522_104153.jpg');"></li>
             
-            <li class="carousel__slide" style="background-image: url('/IMG_20210522_132429.jpg');"></li>
+            <li class="carousel__slide" style="background-image: url('https://raw.githubusercontent.com/steenblikrs/padri/main/assets/IMG_20210522_132429.jpg');"></li>
             
-            <li class="carousel__slide" style="background-image: url('/IMG_20210522_135913.jpg');"></li>
+            <li class="carousel__slide" style="background-image: url('https://raw.githubusercontent.com/steenblikrs/padri/main/assets/IMG_20210522_135913.jpg');"></li>
             
-            <li class="carousel__slide" style="background-image: url('/IMG_20210522_141619.jpg');"></li>
+            <li class="carousel__slide" style="background-image: url('https://raw.githubusercontent.com/steenblikrs/padri/main/assets/IMG_20210522_141619.jpg');"></li>
             
           </ul>
         </div>
@@ -88,7 +80,7 @@
 </div>
 
 <style>
-.carousel__holder {width: 100%; position: relative; padding-bottom: 50%; margin: 1rem 0 1rem;}
+.carousel__holder {width: 100%; position: relative; padding-bottom: ; margin: 1rem 0 1rem;}
 .carousel {
   height: 100%;
   width: 100%;
@@ -356,15 +348,6 @@
             }
         }
   }
-  
-  setInterval(function(){
-    var j=0;
-    var elements = document.querySelectorAll('.carousel__control--forward');
-    for(i=(elements.length - 1);i>-1;i--) {
-      if(isVisible(elements[i])) j=i;
-    }
-    elements[j].click();
-  },7000);
   
 </script>
 
