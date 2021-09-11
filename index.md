@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 images: 
   - image: https://raw.githubusercontent.com/steenblikrs/padri/main/assets/IMG_20210522_104153.jpg
   - image: https://raw.githubusercontent.com/steenblikrs/padri/main/assets/IMG_20210522_132429.jpg
