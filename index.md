@@ -1,6 +1,6 @@
 ---
 layout: home
-images: 
+images:
   - image: https://raw.githubusercontent.com/steenblikrs/padri/main/assets/IMG_20210522_104153.jpg
   - image: https://raw.githubusercontent.com/steenblikrs/padri/main/assets/IMG_20210522_132429.jpg
   - image: https://raw.githubusercontent.com/steenblikrs/padri/main/assets/IMG_20210522_135913.jpg
@@ -16,4 +16,4 @@ We recently completed The Public Architecture and Design Research Institute’s 
 We had a student team who developed a logo design for the Institute and a faculty member selected for best research project.
 
 
-
+{% include carousel.html height="50" unit="%" duration="7" %}
