@@ -3,8 +3,8 @@ layout: page
 title: About
 permalink: /about.md/
 images:
-  - image: https://raw.githubusercontent.com/KeanMGC/padri/main/assets/IMG_20210319_134639.jpg
   - image: https://raw.githubusercontent.com/KeanMGC/padri/main/assets/IMG_20210328_151116.jpg
+  - image: https://raw.githubusercontent.com/KeanMGC/padri/main/assets/IMG_20210319_134639.jpg
   - image: https://raw.githubusercontent.com/KeanMGC/padri/main/assets/IMG_20210328_193036.jpg
   - image: https://raw.githubusercontent.com/KeanMGC/padri/main/assets/IMG_20210423_185827.jpg
   - image: https://raw.githubusercontent.com/KeanMGC/padri/main/assets/IMG_20210428_152921.jpg
