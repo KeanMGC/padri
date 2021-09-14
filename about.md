@@ -12,4 +12,4 @@ The Wenruitang River Project is a great example of the opportunities for young d
 
 
 
-{% include about_.html height="50" unit="%" duration="7" %}
+{% include aboutc.html height="50" unit="%" duration="7" %}
