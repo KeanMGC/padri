@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /about.md/
 images:
   - image: https://raw.githubusercontent.com/KeanMGC/padri/mainhttps://raw.githubusercontent.com/KeanMGC/padri/main/assets/IMG_20210319_134639.jpg"
   - image: https://raw.githubusercontent.com/KeanMGC/padri/main/assets/IMG_20210328_151116.jpg"
