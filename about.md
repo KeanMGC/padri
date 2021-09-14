@@ -3,18 +3,18 @@ layout: page
 title: About
 permalink: /about.md/
 images:
-  - image: https://raw.githubusercontent.com/KeanMGC/padri/main/assets/IMG_20210319_134639.jpg"
-  - image: https://raw.githubusercontent.com/KeanMGC/padri/main/assets/IMG_20210328_151116.jpg"
-  - image: https://raw.githubusercontent.com/KeanMGC/padri/main/assets/IMG_20210328_193036.jpg"
-  - image: https://raw.githubusercontent.com/KeanMGC/padri/main/assets/IMG_20210423_185827.jpg"
-  - image: https://raw.githubusercontent.com/KeanMGC/padri/main/assets/IMG_20210428_152921.jpg"
-  - image: https://raw.githubusercontent.com/KeanMGC/padri/main/assets/IMG_20210522_104153.jpg"
-  - image: https://raw.githubusercontent.com/KeanMGC/padri/main/assets/IMG_20210522_132429.jpg"
-  - image: https://raw.githubusercontent.com/KeanMGC/padri/main/assets/IMG_20210522_135913.jpg"
-  - image: https://raw.githubusercontent.com/KeanMGC/padri/main/assets/_[1].jpg"
-  - image: https://raw.githubusercontent.com/KeanMGC/padri/main/assets/IMG_20190307_163255.jpg"
-  - image: https://raw.githubusercontent.com/KeanMGC/padri/main/assets/IMG_20190403_135126.jpg"
-  - image: https://raw.githubusercontent.com/KeanMGC/padri/main/assets/IMG_20190419_165036.jpg"
+  - image: https://raw.githubusercontent.com/KeanMGC/padri/main/assets/IMG_20210319_134639.jpg
+  - image: https://raw.githubusercontent.com/KeanMGC/padri/main/assets/IMG_20210328_151116.jpg
+  - image: https://raw.githubusercontent.com/KeanMGC/padri/main/assets/IMG_20210328_193036.jpg
+  - image: https://raw.githubusercontent.com/KeanMGC/padri/main/assets/IMG_20210423_185827.jpg
+  - image: https://raw.githubusercontent.com/KeanMGC/padri/main/assets/IMG_20210428_152921.jpg
+  - image: https://raw.githubusercontent.com/KeanMGC/padri/main/assets/IMG_20210522_104153.jpg
+  - image: https://raw.githubusercontent.com/KeanMGC/padri/main/assets/IMG_20210522_132429.jpg
+  - image: https://raw.githubusercontent.com/KeanMGC/padri/main/assets/IMG_20210522_135913.jpg
+  - image: https://raw.githubusercontent.com/KeanMGC/padri/main/assets/_[1].jpg
+  - image: https://raw.githubusercontent.com/KeanMGC/padri/main/assets/IMG_20190307_163255.jpg
+  - image: https://raw.githubusercontent.com/KeanMGC/padri/main/assets/IMG_20190403_135126.jpg
+  - image: https://raw.githubusercontent.com/KeanMGC/padri/main/assets/IMG_20190419_165036.jpg
   - image: https://raw.githubusercontent.com/KeanMGC/padri/main/assets/IMG_20190507_192933.jpg
   - image: https://raw.githubusercontent.com/KeanMGC/padri/main/assets/IMG_20190508_120417.jpg
   - image: https://raw.githubusercontent.com/KeanMGC/padri/main/assets/IMG_20190525_133946.jpg
