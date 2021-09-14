@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: pagenoc
 title: Studio Archive
 permalink: /studio_archive.md/
 ---

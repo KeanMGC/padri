@@ -38,7 +38,3 @@ PADRI was organized to support the research initiatives of Wenzhou-Kean Universi
 The Wenruitang River Project is a great example of the opportunities for young design students to engaging the community, and practice design methodology, in controlled yet real world scenarios, providing rapid feedback. This gives students the opportunity to learn in a very exciting, yet productive way. This is made possible through a focus on reinvigorating historic infrastructure, partnering with municipalities and key decision makers to propose innovative methods and interventions based on research and evaluation of existing conditions.
 
 *There are numerous other funded research projects.
-
-
-
-{% include carousel.html height="50" unit="%" duration="7" %}
