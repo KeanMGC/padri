@@ -5,6 +5,7 @@ permalink: /studio_archive.md/
 images:
 ---
 
+#### Architecture Studios:
 ##### Fall 2021
   1st Year Studio
 
