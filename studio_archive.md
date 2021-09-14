@@ -42,3 +42,37 @@ images:
 4th Year Studio
 
 5th Year Studio
+
+##### Spring 2020
+1st Year Studio
+
+2nd Year Studio
+
+3rd Year Studio
+
+##### Fall 2019
+
+1st Year Studio
+
+2nd Year Studio
+
+3rd Year Studio
+
+##### Spring 2019
+1st Year Studio
+
+2nd Year Studio
+
+##### Fall 2018
+
+1st Year Studio
+
+2nd Year Studio
+
+##### Spring 2018
+1st Year Studio
+
+
+##### Fall 2017
+
+1st Year Studio
