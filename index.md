@@ -1,10 +1,12 @@
 ---
 layout: home
+title: Home
+permalink: /index.md/
 images:
-  - image: /assets/IMG_20210522_104153.jpg
-  - image: /assets/IMG_20210522_132429.jpg
-  - image: /assets/IMG_20210522_135913.jpg
-  - image: /assets/IMG_20210522_141619.jpg
+  - image: https://raw.githubusercontent.com/KeanMGC/padri/main/assets/IMG_20210522_104153.jpg
+  - image: https://raw.githubusercontent.com/KeanMGC/padri/main/assets/IMG_20210522_132429.jpg
+  - image: https://raw.githubusercontent.com/KeanMGC/padri/main/assets/IMG_20210522_135913.jpg
+  - image: https://raw.githubusercontent.com/KeanMGC/padri/main/assets/IMG_20210522_141619.jpg
 ---
 
 ![](assets/2021PADRIBackground-00a_.png)
