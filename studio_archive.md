@@ -2,7 +2,6 @@
 layout: page
 title: Studio Archive
 permalink: /studio_archive.md/
-images:
 ---
 
 #### Architecture Studios:
