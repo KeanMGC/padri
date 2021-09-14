@@ -2,11 +2,11 @@
 {% assign letters = letterstring | split: ',' %}
 
 <div class="carousel__holder">
-    <div class="about_">
+    <div class="carousel">
         {% for item in site.data.about_.images %}
-          <input class="carousel__activator" type="radio" name="about_" id="{{ letters[forloop.index0] }}" {% if forloop.first %}checked="checked"{% endif %} />
+          <input class="carousel__activator" type="radio" name="carousel" id="{{ letters[forloop.index0] }}" {% if forloop.first %}checked="checked"{% endif %} />
         {% endfor %}
-        {% for item in site.data.about_.images %}
+        {% for item in site.data.carousel.images %}
           {% if forloop.index == forloop.length %}
             {% assign nextindex = 0 %}
           {% else %}
@@ -26,13 +26,13 @@
         {% endfor %}
         <div class="carousel__track">
           <ul>
-            {% for item in site.data.about_.images %}
+            {% for item in site.data.carousel.images %}
             <li class="carousel__slide" style="background-image: url('{{ item.image }}');"></li>
             {% endfor %}
           </ul>
         </div>
         <div class="carousel__indicators">
-            {% for item in site.data.about_.images %}
+            {% for item in site.data.carousel.images %}
               <label class="carousel__indicator" for="{{ letters[forloop.index0] }}"></label>
             {% endfor %}
         </div>
